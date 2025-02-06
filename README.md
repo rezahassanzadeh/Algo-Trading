@@ -1,5 +1,4 @@
 # Pairs Trading in Cryptocurrencies
-This is a project for the Market Microstructure &amp; Algorithmic Trading Course at University of Bologna.
 
 The code implements a pairs trading strategy based on a paper by Gatev et al. (2006) on a portfolio of cryptocurrencies. Furthermore, temporal cross-section analysis, category performance, and transaction costs effect are also examined. The aim is to explore the profitability of this simple method in a new market. 
 
